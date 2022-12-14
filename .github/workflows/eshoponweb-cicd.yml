@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 0cf42709-0fee-410e-839a-bd5e7c662c47
   WEBAPP-NAME: az400-webapp-rjofres
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
